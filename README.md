@@ -5,4 +5,4 @@ MP Neuron and Perceptron are linear models and should not be applied on non-line
 Eventhough little knowledge of these models is important as these are the building blocks of many deep complex networks.
 
 DISCLAIMER:
-The dataset used in abovee two cases is a private data set, although I've provided glimpse of it in Perceptron file, so if anyone wantss to better understand the models can refer to .head() function call in Perceptron model. 
+The dataset used in above two problems is a private data set, although I've provided glimpse of it in Perceptron file, so if anyone wants to better understand the models can refer to .head() function call in Perceptron model. 
